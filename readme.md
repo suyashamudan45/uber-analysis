@@ -79,6 +79,13 @@ This project presents an interactive Power BI dashboard analyzing over **103K Ub
 
 **Insight:** Combines cost-effectiveness and availability, making it the preferred option for most riders.
 
+### Visualizations : 
+
+![overview_total_bookings](/images/overview_total_bookings.png)
+
+![overview_total_booking_amount](/images/overview_total_boking_amount.png)
+
+![overview_total_trip_distance](/images/overview_total_trip_distance.png)
 ---
 
 ## Time-Based Demand Insights
@@ -99,6 +106,14 @@ This project presents an interactive Power BI dashboard analyzing over **103K Ub
 ### Heatmap Highlights:
 - Midday to evening shows **dense booking patterns**
 - Supports optimizing **driver shifts and pricing strategy**
+
+### Visualizations : 
+
+![time_total_bookings](/images/time_total_booking.png)
+
+![time_total_booking_amount](/images/time_total_booking_amount.png)
+
+![time_total_trip_distance](/images/time_total_trip_distance.png)
 
 ---
 
@@ -122,6 +137,10 @@ This tab offers a detailed **trip-level table** filtered dynamically based on us
 Drill-through lets users answer questions like this with one click.
 
 **Insight:** Enables transparency and traceability of KPIs back to raw data — ideal for analysts, managers, and auditors.
+
+### Visualization : 
+
+![Details](/images/details.png)
 
 ---
 
