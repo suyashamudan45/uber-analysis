@@ -1,0 +1,17 @@
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch main
+# Your branch is ahead of 'origin/main' by 1 commit.
+#   (use "git push" to publish your local commits)
+#
+# Changes to be committed:
+	new file:   images\details.png
+	new file:   images\overview_total_boking_amount.png
+	new file:   images\overview_total_bookings.png
+	new file:   images\overview_total_trip_distance.png
+	new file:   images\time_total_booking_amount.png
+	new file:   images\time_total_booking.png
+	new file:   images\time_total_trip_distance.png
+	modified:   readme.md
+#
